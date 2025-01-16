@@ -1,4 +1,4 @@
-package com.example.uploadingfiles.storage;
+package com.shotaroi.springbootuploadingfiles.storage;
 
 import java.io.IOException;
 import java.io.InputStream;
